@@ -8,7 +8,7 @@ GitHub Video URL - Go to source file and download to view
 
 
 GitHub Repo
-https://github.com/tonypdoanuchicago/SVG_Project_Challeng
+https://github.com/tonypdoanuchicago/SVG_Project_Challenge
 
 
 Grading Requirements
